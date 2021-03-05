@@ -1,0 +1,5 @@
+Variables: una variable es como un cajón que tiene una etiqueta (nombre de la variable) donde almacenamos datos que nos pueden servir más adelante.
+Strings: conjunto de caracteres. Suelen ser palabras o frases y siempre deben estar entre comillas.
+Funciones: manejan los datos (las variables) según una serie de instrucciones que nosotros prestablecemos al escribir el codigo. Generalmente queremos que esa función nos retorne algo (un resultado) aunque a veces podemos querer solo que imprima algo (es decir que lo escriba) relacionado a la variable.
+If: cuando utlizamos el If quiere decir que queremos que se ejecute tal accion cuando la variable cumpla ciertas condiciones (que nosotros podemos definir). De no cumplir esa condición, se realiza otra acción (else). Se puede hacer mas de 1 else, por ejemplo clasificando en 3 acciones segun la variable que se establezca, por ejemplo una accion para un numero mayor que 0, otra para menor que 0 y otra para igual a 0.
+True y false: con esto podemos establecer que algo es verdadero o falso, ya sea mediante alguna función o por que nosotros ya preestablecemos que lo sea. 
